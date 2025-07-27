@@ -1,1 +1,1 @@
- <img src="https://aanyad.carrd.co/assets/images/image06.gif?v=7dda1dbe"/>
+ <center><img src="https://files.catbox.moe/rjizy7.png"/></center>
